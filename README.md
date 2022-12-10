@@ -1,4 +1,4 @@
-![Top Doodle](/files/top.png)
+![Top Doodle](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/files/top.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Harsh.;I+Am+an+Android+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/SahilihaS)
 
@@ -116,5 +116,5 @@
 <br>
 
 ## 💻 Made with ❤️ by **Harsh Tripathi** with **Github** 🙏
-
+![Bottom png](https://github.com/CodingAce123/CodingAce123/blob/master/files/bottom.png)
 </details>.
