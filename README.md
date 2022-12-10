@@ -117,4 +117,4 @@
 
 ## 💻 Made with ❤️ by **Harsh Tripathi** with **Github** 🙏
 
-</details>
+</details>.
