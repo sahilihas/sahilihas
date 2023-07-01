@@ -88,7 +88,6 @@
 - ⚡ Cravings: Food, Dancing and Playing Games.
 - 🌱 I Am Also Learning CSS, HTML and Kotlin.
 - 😐 I have a Love/hate Relationship with Programming
-- ✈ In Future, I’m Looking to get a Job in FAANG.
 - ❤️ Support Me and Follow Me In  Social Media
 - 
 ## Listen With Me On Spotify 🎧
