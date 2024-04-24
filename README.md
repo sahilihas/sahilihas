@@ -57,7 +57,7 @@
   <img title="C++" height="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;
   <img title="HTML5" height="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;
   <img title="CSS3" height="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;
-  <img title="JS" height="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;
+  <img title="JS" height="40px" src="https://github.com/sahilihas/README/blob/main/icons8-js-48.png"/> &nbsp;
   <img title="Kotlin" height="40px" src="https://github.com/sahilihas/README/blob/main/icons8-kotlin-a-cross-platform%2C-statically-typed%2C-general-purpose-programming-language-with-type-inference-24.png"/> &nbsp;
   <img title="Dart" height="40px" src="https://github.com/sahilihas/README/blob/main/icons8-dart-48.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Flutter" height="40px" src="https://github.com/sahilihas/README/blob/main/icons8-flutter-48.png"/> &nbsp;
