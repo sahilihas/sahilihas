@@ -112,11 +112,8 @@
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 
 [![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3rpxiap4czveo8clwzcqaf68e)](https://github.com/CodingAce123)
-
 ---
-
-<br />
-<br />
+</br>
 
 <h1 align="center">My Programming and Github Stats</h1>
 
@@ -124,7 +121,6 @@
 <summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
  <br>
 
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
@@ -153,6 +149,7 @@ No Activity Tracked This Week
 <details>
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
+   
 <div align="center">
 
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilihas&theme=ocean_dark'
@@ -180,12 +177,6 @@ align="left" />
 </div>
 </details>
 
-<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
-
-![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/sahilihas)
@@ -197,8 +188,6 @@ align="left" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/sahilihas)
 
 ![Snake animation](https://github.com/sahilihas/README/blob/main/.github/workflows/github-contribution-grid-snake.svg)
-
-## Show Some ❤️ by Starring or Forking Some of My Repositories 🙏🙏!
 
 <br>
 
