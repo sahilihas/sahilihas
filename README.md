@@ -180,10 +180,7 @@ align="left" />
 ## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/sahilihas)
-
-[![Stargazers repo roster for @sahilihas/sahilihas](https://reporoster.com/stars/dark/sahilihas/sahilihas)](https://github.com/sahilihas/sahilihas/stargazers)
-
-[![Forkers repo roster for @sahilihas/sahilihas](https://reporoster.com/forks/dark/sahilihas/sahilihas)](https://github.com/sahilihas/sahilihas/network/members)
+[![An image of @sahilihas8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilihas8)](https://holopin.io/@sahilihas8)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/sahilihas)
 
