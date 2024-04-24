@@ -31,8 +31,12 @@
 </a>
   <a href="https://stackoverflow.com/users/22110547/harsh-tripathi">
   <img alt="Harsh's StackOverflow" height="70px" src="https://github.com/sahilihas/README/blob/main/stack-overflow.png">
+
+<br>
+  <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CodingAce123/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CodingAce123/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CodingAce123/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+</br>  
   
-  ## ❤️Tools❤️:-
+  ## ❤️Software I Use❤️:-
   <a href="https://www.visualstudio.com">
  <img alt="Visual Studio" height="70px" src="https://github.com/sahilihas/README/blob/main/icons8-visual-studio-code-2019-48.png" />
 </a> 
@@ -114,16 +118,88 @@
 <br />
 <br />
 
----
 <h1 align="center">My Programming and Github Stats</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilihaS&show_icons=true)   
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahilihaS)  
+ <details> 
+<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
+ <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SahilihaS)](https://github.com/ryo-ma/github-profile-trophy)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+</details>
+
+<details>
+  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
+<br />
+<div align="center">
+
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilihas&theme=ocean_dark'
+align = "center" />
+
+<img src ='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilihas&theme=ocean_dark' />
+
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilihas&theme=ocean_dark' />
+
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilihas&theme=ocean_dark' />
+
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilihas&theme=ocean_dark&utcOffset=8' />
+
+<img src='https://github-readme-stats.vercel.app/api?username=sahilihas&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
+align="left" />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sahilihas&theme=merko&langs_count=5&border_color=2e4058' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahilihas&theme=gruvbox&row=1&column=7)](https://github.com/sahilihas)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sahilihas&theme=dark)](https://github.com/sahilihas)
+
+<img src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilihas&theme=dracula)](https://github.com/sahilihas/github-readme-activity-graph)a&hide_border=true" width="100%">
+
+</div>
+</details>
+
+<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
+
+![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
 
 ---
+
+## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/sahilihas)
+
+[![Stargazers repo roster for @sahilihas/sahilihas](https://reporoster.com/stars/dark/sahilihas/sahilihas)](https://github.com/sahilihas/sahilihas/stargazers)
+
+[![Forkers repo roster for @sahilihas/sahilihas](https://reporoster.com/forks/dark/sahilihas/sahilihas)](https://github.com/sahilihas/sahilihas/network/members)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/sahilihas)
+
+![Snake animation](https://github.com/sahilihas/README/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+
+## Show Some ❤️ by Starring or Forking Some of My Repositories 🙏🙏!
+
 <br>
 
 ## 💻 Made with ❤️ by **Harsh Tripathi** with **Github** 🙏
