@@ -68,8 +68,8 @@
   <img title="ETH" height="40px" src="https://github.com/sahilihas/README/blob/main/icons8-ehtereum-64.png"/> &nbsp;
   <img title="unity" height="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> &nbsp;
   <img title="Kubernetes" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/> &nbsp;
-  
-  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 </h2>
 
