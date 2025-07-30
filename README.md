@@ -93,14 +93,14 @@
 <img align="left" alt="GIF-1" width="250px" height="230px" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
 <h3 align = "centered-content">
-I'm A Student, Developer and a Learner!!!
+I'm A Student, Developer, and a Learner!!!
 </h3>
-<li align="centered-content"> 😄 Adjectives: Coder, artist and Kind Hearted 
-<li align="centered-content"> 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games. 
-<li align="centerrd-content"> ⚡ Cravings: Food, Dancing and Playing Games. 
-<li align="centered-content">  🌱 I Am Also Learning CSS, HTML and Kotlin. 
+<li align="centered-content"> 😄 Adjectives: Coder, artist, and History Enthusiast.
+<li align="centered-content"> 🌈 I Like Coding, Sports, Music, and Playing Games. 
+<li align="centered-content"> ⚡ Cravings: Food, Dancing and Playing Games. 
+<li align="centered-content">  🌱 Working CSS, HTML, Flutter, and Kotlin. 
 <li align="centered-content">  😐 I have a Love/hate Relationship with Programming. 
-<li align="centered-content">  ❤️ Support Me and Follow Me In  Social Media.
+<li align="centered-content">  ❤️ Support Me and Follow Me on  Social Media.
 <br></br>
 
 ## Listen With Me On Spotify 🎧
